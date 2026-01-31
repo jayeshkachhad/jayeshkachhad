@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Selenium **Web Automation**
 
 - 📫 How to reach me **jckachhad@gmail.com**
-- <a> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b783bffa-0098-4015-ad8e-bb7310273049" /> @ https://darkdevit.com/ </a>
+- <a> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b783bffa-0098-4015-ad8e-bb7310273049" /> @ https://darkdevit.com/ </a>
 
 
 <h3 align="left">Connect with me:</h3>
