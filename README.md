@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/>
 </a>
 
 <!-- Added Icons -->
@@ -84,8 +84,5 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
-<a href="https://www.asterisk.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Asterisk_logo.svg" alt="asterisk" width="40" height="40"/>
-</a>
 
 </p>
