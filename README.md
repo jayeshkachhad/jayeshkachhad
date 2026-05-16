@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Kachhad</h1>
-<h3 align="center">A passionate Python developer looking career in data analysis.</h3>
+<h3 align="center">A Passionate Fullstack Developer.</h3>
 
-- 🔭 I’m currently working on Selenium **Web Automation**
+- 🔭 I’m currently providing customised backend solutions to growing businesses.
 
 - 📫 How to reach me **jckachhad@gmail.com**
 - <a> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b783bffa-0098-4015-ad8e-bb7310273049" /> @ https://darkdevit.com/ </a>
